@@ -1,5 +1,5 @@
 //************************************
-// Deck Class -- gnt2106
+// Deck Class
 //************************************
 import java.util.Random;
 import java.util.Scanner;
@@ -41,7 +41,5 @@ public class Deck {
 		top -= 1;
         return cards[top+1];
 	}
-	
-	// add more methods here if needed
 
 }
