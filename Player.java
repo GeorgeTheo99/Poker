@@ -1,5 +1,5 @@
 //************************************
-// Player Class -- gnt2106
+// Player Class
 //************************************
 
 import java.util.ArrayList;
