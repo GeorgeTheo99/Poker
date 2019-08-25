@@ -1,5 +1,5 @@
 //************************************
-// Card Class -- gnt2106
+// Card Class
 //************************************
 import java.util.Random;
 import java.util.Scanner;
@@ -89,6 +89,5 @@ public class Card implements Comparable<Card>{
         
 		//return (Integer.toString(this.suit) + Integer.toString(this.rank));
 	}
-	// add some more methods here if needed
 
 }
